@@ -1,0 +1,10 @@
+langchain
+ipykernel
+python-dotenv
+langchain-community 
+pypdf
+bs4
+langchain-text-splitters
+langchain-openai
+langchain_groq
+faiss-cpu
