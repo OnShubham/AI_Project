@@ -10,3 +10,5 @@ langchain_groq
 faiss-cpu
 sentence-transformers
 ipywidgets
+streamlit
+tavily-python
